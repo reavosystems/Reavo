@@ -1,0 +1,65 @@
+Reavo License Version 1.0
+Copyright © 2025 Reavo Systems
+All rights reserved.
+
+This license governs the use of the software and source code (the “Software”) included in the Reavo Project (the “Project”) and made available by Mirosław Maik (“the Author”).
+
+By accessing, reading, downloading, or cloning any part of this Software, you agree to be bound by the terms and conditions of this license. If you do not agree, you must not access, use, copy, distribute, or modify any part of the Software.
+
+1. Purpose
+
+The Software is made publicly visible solely for purposes of transparency, code review, learning, and evaluation. This license does not permit any use of the Software in production, derivative works, or redistribution unless explicitly authorized in writing by the Author.
+
+2. Permitted Use
+
+Under this license, and without requiring separate permission, you are allowed to:
+
+(a) View and read the source code;
+
+(b) Analyze and study the code for educational and non-commercial, non-distributive purposes;
+
+(c) Test the Software in a private, local environment that is not accessible to the public and not used for commercial, organizational, or operational purposes;
+
+(d) Submit suggestions, issues, and contributions via pull requests or GitHub issues, provided these are subject to review and acceptance by the Author.
+
+3. Prohibited Use
+
+Unless you have received prior, explicit, and written permission from the Author, you are strictly prohibited from:
+
+(a) Using the Software or any portion thereof in any product, service, commercial project, personal project, SaaS offering, or production environment;
+
+(b) Hosting the Software, in whole or in part, on any public-facing server or platform, including self-hosted or third-party cloud providers;
+
+(c) Copying, modifying, reusing, or adapting any portion of the Software for integration into another codebase or product;
+
+(d) Forking, publishing, distributing, sublicensing, selling, leasing, or making the Software or its derivatives publicly or privately available, including via GitHub, GitLab, Docker Hub, package managers, or any similar platform;
+
+(e) Using the Reavo name, brand, visual assets, logos, or user interface elements in any other project, product, or promotional material.
+
+4. Ownership and Intellectual Property
+
+The Reavo Project, including all source code, visual identity, documentation, design, and architecture, is and shall remain the sole intellectual property of Mirosław Maik. No rights, licenses, or ownership of any kind are granted to you by this license except as expressly stated herein.
+
+All rights not expressly granted under this license are reserved by the Author.
+
+5. Termination
+
+This license is automatically terminated if you violate any of its terms. Upon termination, you must immediately cease using the Software and delete all copies or derivatives in your possession. Continued use of the Software after termination constitutes willful infringement of copyright.
+
+6. No Warranty
+
+The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. The Author is not liable for any damages, direct or indirect, arising from the use or inability to use the Software.
+
+7. Licensing Exceptions and Contact
+
+For commercial use, integrations, sublicensing, or partnership inquiries, please contact:
+
+legal@reavo.org
+
+8. Governing Law
+
+This license shall be governed and interpreted in accordance with the laws of the Republic of Poland and applicable European Union law.
+
+---
+
+This license is not approved by the Open Source Initiative and does not constitute an open-source license. The source code is made available under a source-available model and is strictly governed by the terms above.
